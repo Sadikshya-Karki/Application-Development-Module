@@ -1,0 +1,14 @@
+/Users/Sadikshya/Desktop/Workshop/Task1/bin/Debug/net10.0/Task1
+/Users/Sadikshya/Desktop/Workshop/Task1/bin/Debug/net10.0/Task1.deps.json
+/Users/Sadikshya/Desktop/Workshop/Task1/bin/Debug/net10.0/Task1.runtimeconfig.json
+/Users/Sadikshya/Desktop/Workshop/Task1/bin/Debug/net10.0/Task1.dll
+/Users/Sadikshya/Desktop/Workshop/Task1/bin/Debug/net10.0/Task1.pdb
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/Task1.AssemblyInfoInputs.cache
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/Task1.AssemblyInfo.cs
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/Task1.csproj.CoreCompileInputs.cache
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/Task1.dll
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/refint/Task1.dll
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/Task1.pdb
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/Task1.genruntimeconfig.cache
+/Users/Sadikshya/Desktop/Workshop/Task1/obj/Debug/net10.0/ref/Task1.dll
